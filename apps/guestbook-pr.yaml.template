@@ -10,7 +10,7 @@ spec:
   source:
     kustomize: {}
     path: overlays/pr
-    repoURL: https://github.com/isouza-daitan/guestbook-go-config
+    repoURL: https://github.com/rophos-rb/guestbook-go-config
   syncPolicy:
     automated:
       prune: true
